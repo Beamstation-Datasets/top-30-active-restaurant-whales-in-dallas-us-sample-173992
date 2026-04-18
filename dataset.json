@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in Dallas, US",
-  "export_job_id": "b2472d2a-04bf-41e8-bd88-c78f405db37d",
+  "export_job_id": "3d55ce68-3ca7-44f8-9928-8f68c4a34e07",
   "github_org": "Beamstation-Datasets",
   "id_short": 173992,
   "location_name": "Dallas",
   "location_type": "city",
   "repo_name": "top-30-active-restaurant-whales-in-dallas-us-sample-173992",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/173992/beamstation_173992_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.98,
   "sample_records": 123,
-  "sample_sha256": "571f11e7eee37a2a0f5abeda544e0868662dc7dd03c1247321ffa5cb941009b0",
-  "sample_size_bytes": 524460,
-  "total_records": 1230,
-  "updated_at": "2026-04-07T17:26:26.678249+00:00"
+  "sample_sha256": "0b6276ac55af5bcf1e9a0713156608952609799261e56a8b26f0b6cffec3440c",
+  "sample_size_bytes": 517419,
+  "total_records": 1233,
+  "updated_at": "2026-04-14T23:00:45.685909+00:00"
 }
