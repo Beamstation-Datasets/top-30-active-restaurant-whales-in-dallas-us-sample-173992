@@ -9,9 +9,9 @@
 | Dataset ID | `173992` |
 | Location | Dallas |
 | Category | Restaurants |
-| Full dataset size | 1,230 records |
-| Free sample size | 123 records (10.0%) |
-| Last export | 2026-04-07T17:26:26.678249+00:00 |
+| Full dataset size | 1,233 records |
+| Free sample size | 123 records (9.98%) |
+| Last export | 2026-04-14T23:00:45.685909+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-dallas-us-sample-173992/releases/download/sample-latest/beamstation_173992_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
