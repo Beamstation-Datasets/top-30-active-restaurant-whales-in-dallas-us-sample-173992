@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3d55ce68-3ca7-44f8-9928-8f68c4a34e07",
+  "export_job_id": "d454e9dd-7a14-4246-b9ed-7341f0e08e75",
   "id_short": 173992,
-  "published_at": "2026-04-18T07:31:57Z",
+  "published_at": "2026-04-22T07:09:30Z",
   "repo_name": "top-30-active-restaurant-whales-in-dallas-us-sample-173992",
   "sample_asset_name": "beamstation_173992_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/173992/beamstation_173992_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 123,
-  "sample_sha256": "0b6276ac55af5bcf1e9a0713156608952609799261e56a8b26f0b6cffec3440c",
-  "sample_size_bytes": 517419,
-  "total_records": 1233
+  "sample_records": 89,
+  "sample_sha256": "6e661a210d0dec5e638764e4f574596bb2fd6fc10a4cf96a0be3e6d53da0d09e",
+  "sample_size_bytes": 378178,
+  "total_records": 892
 }
